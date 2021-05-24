@@ -1,21 +1,9 @@
-# 💰 Análise do mercado de crypto 💰
-
-## 📋 Recolha de dados 📋
-Os dados foram recolhidos através do site coingecko (https://www.coingecko.com/pt) onde foi feito um “request” de dados sobre o preço, volume e "market cap" de diversas cryptomoedas. Foram feitos mais "requests" de preço, volume e "market cap" históricos das moedas Bitcoin e Ethereum. Para o caso do Bitcoin a base de dados pedida foi entre 2014 até 2021. Já no caso do Ethereum, por ser uma moeda mais recente, a base de dados pedida apenas abrange dados entre 2016 até 2021. Todos foram fornecidos através do formato .json.
-
-A Coingecko é uma plataforma que fornece uma análise fundamental do mercado de criptomoedas. Além de acompanhar preços, volume e capitalização de mercado, a CoinGecko acompanha o crescimento da comunidade, desenvolvimento do código-fonte aberto, principais eventos e métricas em cadeia.
-
-Limpámos alguns dados que não eram relevantes para este projeto de forma a conseguirmos uma base de dados mais limpa e fácil de trabalhar no nosso objetivo.
+# Nº PASSAGEIROS TRANSPORTADOS POR EMPRESAS FERROVIÁRIAS :steam_locomotive: 
+## Recolha de dados
+A base de dados utilizada pertence ao Instituto Nacional de Estatística (INE, https://www.ine.pt/xportal/xmain?xpgid=ine_main&xpid=INE), cuja missão é produzir a informação estatística oficial de qualidade, promovendo a coordenação, a análise, a inovação e a divulgação da atividade estatística nacional e europeia, garantindo o armazenamento integrado de dados. O INE segue uma linha com o Código de Conduta, com os seguintes valores: Profissionalismo, ética e respeito pela confidencialidade; Independência técnica, objetividade e imparcialidade; Valorização dos recursos humanos e desenvolvimento de novas competências; Compromisso para com a Qualidade; Criatividade, inovação e melhoria contínua dos processos; Respeito pelos detentores de fontes de dados; Sucesso nas parcerias com entidades externas; Satisfação das necessidades estatísticas diferenciadas.
 
 ## 🤔 Contexto 🤔 
-Com o crescente interesse em criptoativos, durante o ano de 2020, decidimos realizar o nosso trabalho de forma a explorar alguns dados estatisticos relacionados com o tema.
-A maioria dos sites que faz o reportório deste tipo de dados disponibiliza-os de uma forma geral e oferece pouca organização destas informações, desta forma também ficam mais facilmente inspeccionáveis/manipuláveis. Sem este tipo de trabalho tornam-se dificultadas as tarefas de análise, modelação e visualização por parte da comunidade de criptomoedas.
-
-Como as API estão disponiveis na nuvem destes websites, então não é necessário descarregar-las e fica fácil para qualquer utilizador que quiser aceder a estes dados relativamente aos seus investimentos nesta área a partir do github.
-
-A estrutura base deste ficheiro, desenhada para fácil manipulação em Excel/Python/R, não mudará, podendo a comunidade analítica considerá-lo um alvo imutável (em termos de localização e estrutura) para, por exemplo, alimentar plataformas de visualização/modelação. De notar que, mediante no final do ano 2021 com os relatórios da situação que irão decorrer, poderão ser adicionadas novas colunas desde que fornecidas pelo mesmo website e tratadas da mesma forma, mantendo-se claro a retrocompatibilidade. Fontes adicionais de dados poderão também então ser adicionadas.
-
-Porque todas as boas decisões começam com bons dados.
+Relativamente ao tema, como já foi dito, este baseia-se no número de passageiros transportados pelas empresas exploradoras da ferroviária. O tema vai de encontro a algo bastante importante e que deveria ter mais audiência, o uso de transportes públicos. Assim, a poluição diminuiria e os gastos nos equipamentos também. Nas grandes cidades existem bastantes transportes publicos, a população usufrui facilmente, por vezes, é preferível do que andar no transito da estrada. Contrapondo, em aldeias e vilas, este facilitismo e acessibilidade é menor. Existem poucos transportes públicos, sejam autocarros ou comboios, os horários são escassos e muitas das vezes a deslocação é longa. Eticamente, estaríamos a respeitar a natureza e consequentemente a nós próprios.ds
 
 ## 🧱 Estrutura 🧱
 Análise de mercado de cryptomoedas em relação a MarketShare:(https://github.com/cdm2021/Crypto_2020_2semestre/blob/main/An%C3%A1lise%20de%20mercado%20de%20cryptomoedas%20no%20geral.ipynb).
