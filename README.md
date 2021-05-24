@@ -13,20 +13,15 @@ Viagens (N.º) feitas pelos turistas por Sexo e Destino da viagem; Mensal
 (https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0000902&contexto=bd&selTab=tab2) - ao abrir o link é necessário selecionar o periodo de análise de dados (decidimos analisar todos os dados disponiveis), local de residência (Portugal), sexo (HM) e o destino da viagem (total).
 
 ## Funções das aplicações
-Análise de mercado de ttransportes ferroviários em relação ao numero de turista que viagam nnos mesmos, tendo em conta  - Representação gráfica e atualizada de partilha de mercado entre as 100 maiores Criptomoedas em 2020. O uso de "others" serve para simplificar o gráfico e obter uma melhor visualização sobre as moedas que com maior valor total de mercado.
-
-Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par BTC-USD - Preço e Volume de negócio da Bitcoin histórico desde 01/01/2014 até 01/03/2021. Foi necessário fazer request dos dados até ao mês de março para poder fazer o cálculo de ROI de 60 e 90 dias. O ROI foi calculado a partir do dia 1 de cada mês e acabando 30/60/90 dias depois. O cálculo e representação visual do ROI feito no nosso trabalho é uma ferramenta que pode ajudar em futuros investimentos, tendo em conta a ação de preço nos anos anteriores. 
-
-Preço, Volume e ROI Anual, de 30, 60 e 90 dias do par ETH-USD - Preço e Volume de negócio da Ethereum histórico desde 01/01/2016 até 01/03/2021. Tal como no caso do Bitcoin, foi necessário fazer request dos dados até ao mês de março para poder fazer o cálculo de ROI de 60 e 90 dias. O ROI foi calculado a partir do dia 1 de cada mês e acabando 30/60/90 dias depois. O cálculo e representação visual do ROI feito no nosso trabalho é uma ferramenta que pode ajudar em futuros investimentos, tendo em conta a ação de preço nos anos anteriores. 
 
 ## 📔 Dicionário dos dados 📔
 
-bitcoin_price_marketcap_volume_20140101_20210302.csv
+https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0000902&contexto=bd&selTab=tab2
 
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
 | ------------------- | ------------------- | ----------------- |
 |  data |  Data | DD-MM-YYYY h-m-s-ms |
-|  BTCUSD |  Valor da Bitcoin em dólares | >=0 |
+|   |  Valor da Bitcoin em dólares | >=0 |
 |  ETHUSD |  Valor da Ethereum em dólares | >=0 |
 |  marketcap |  Valor total de mercado de uma moeda | >=0 |
 |  ROI |  Retorno sobre o investimento |  <0<  |
