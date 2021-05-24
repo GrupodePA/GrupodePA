@@ -6,7 +6,11 @@ A base de dados utilizada pertence ao Instituto Nacional de Estatística (INE, h
 Relativamente ao tema, como já foi dito, este baseia-se no número de passageiros transportados pelas empresas exploradoras da ferroviária. O tema vai de encontro a algo bastante importante e que deveria ter mais audiência, o uso de transportes públicos. Assim, a poluição diminuiria e os gastos nos equipamentos também. Nas grandes cidades existem bastantes transportes publicos, a população usufrui facilmente, por vezes, é preferível do que andar no transito da estrada. Contrapondo, em aldeias e vilas, este facilitismo e acessibilidade é menor. Existem poucos transportes públicos, sejam autocarros ou comboios, os horários são escassos e muitas das vezes a deslocação é longa. Eticamente, estaríamos a respeitar a natureza e consequentemente a nós próprios.
 
 ## Estrutura 🧱
+Passageiros-quilómetro transportados (N.º) pelas empresas exploradoras de sistema ferroviário pesado por Tipo de tráfego ; Mensal
+(https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0000902&contexto=bd&selTab=tab2)
 
+Viagens (N.º) feitas pelos turistas por Sexo e Destino da viagem; Mensal
+(https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0000902&contexto=bd&selTab=tab2)
 
 ## Funções das aplicações
 Aviso Legal: Este trabalho nao tem como intuito de dar aconcelhamento financeiro, tem apenas o intuito de verificar dados de ação de preço ao longo dos anos.
