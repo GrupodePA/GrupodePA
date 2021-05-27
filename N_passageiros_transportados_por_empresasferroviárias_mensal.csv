@@ -1,1 +1,2 @@
-ID,Meses,Tipo de tráfego:Total,Tipo de tráfego:Suburbano,Tipo de tráfego:Nacional, Tipo de tráfego:Internacional, Numero de passageiros transportados(em Portugal)
+ID,Meses, Numero de passageiros transportados(em Portugal)
+12,janeiro,Tipo de tráfego:Suburbano,Tipo de tráfego:Nacional, Tipo de tráfego:Internacional,Tipo de tráfego:Nacional 
