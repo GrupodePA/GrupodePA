@@ -1,4 +1,4 @@
-ID,Mês,Ano,Tipo de tráfego:Suburbano,Tipo de tráfego:Nacional,Tipo de tráfego:Internacional, Numero total de passageiros transportados 
+ID,Mês,Ano,Suburbano,Nacional,Internacional, Numero total de passageiros transportados 
 1,Janeiro,2021,123 217,42 817,47,166 081
 2,Fevereiro,2021,72 016,28 643,0,100 659
 3,Março,2021,77 832,64 645,0,142 477
