@@ -14,11 +14,11 @@ Passageiros-quilómetro transportados (N.º) pelas empresas exploradoras de sist
 Viagens (N.º) feitas pelos turistas por Sexo e Meio de transporte utilizado; Mensal
 (https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0007236&contexto=bd&selTab=tab2) - ao abrir o link é necessário selecionar o periodo de análise (decidimos analisar os ultimos dez anos disponiveis), a residência (Portugal), o tipo de tráfego (total) e o sexo(HM).
 
-## Funções da aplicação
+## Funções da aplicação 👁️
 Com acesso ao Instituto Nacional de Estatistícas, realizamos duas análises de dois temas, com o intuito de chegar rapidamente a conclusões fidedignas. Pode consultar a documentação em análise no seguite endereço:
 https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_main
 
-## Dicionário dos dados
+## Dicionário dos dados 📔
 
 https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0000902&contexto=bd&selTab=tab2
 
@@ -72,5 +72,5 @@ N_viagens_de_ turistas_Mulheres_e_meio_de_transporte.csv
 |  Nº de viagens |  Total de numero de viagens feitas por mulheres num mês  |  >=0  | 
 
 
-## Problemas, inconsistências e melhorias (?)
+## Problemas, inconsistências e melhorias (💡)
 Ao escolhermos os temas para o nosso trabalho, começamos por decidir a fonte por ser fidedigna e não propriamente o tema em si. Assim, ao longo da realização do trabalho deparamo-nos com a dificuldade de encontrar informação sobre os mesmo temas em análise.
