@@ -72,5 +72,5 @@ N_viagens_de_ turistas_Mulheres_e_meio_de_transporte.csv
 |  Nº de viagens |  Total de numero de viagens feitas por mulheres num mês  |  >=0  | 
 
 
-## Problemas, inconsistências e melhorias (?)
+## Problemas, inconsistências e melhorias 
 Ao escolhermos os temas para o nosso trabalho, começamos por decidir a fonte por ser fidedigna e não propriamente o tema em si. Assim, ao longo da realização do trabalho deparamo-nos com a dificuldade de encontrar informação sobre os mesmo temas em análise.
