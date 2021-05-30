@@ -50,36 +50,7 @@ N_viagens_de_ turistas_por_sexo_e_meio_de_transporte.csv
 |  ROI 30 Dias 2020 | ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2020  |  0 <= x <= 100, com valor percentual  |
 |  ROI 30 Dias Médio |  Roi médio  |  0 <= x <= 100, com valor percentual  |
 
-bitcoin_roi_60_dias_mensal.csv
-
-| Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
-| ------------------- | ------------------- | ----------------- |
-|  Meses |  Meses do Ano  | Mes |
-|  ROI 60 Dias 2014 | ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2014  |  0 <= x <= 100, com valor percentual |
-|  ROI 60 Dias 2015 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2015  |  0 <= x <= 100, com valor percentual  |
-|  ROI 60 Dias 2016 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2016  |  0 <= x <= 100, com valor percentual |
-|  ROI 60 Dias 2017 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2017  |  0 <= x <= 100, com valor percentual |
-|  ROI 60 Dias 2018 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2018  |  0 <= x <= 100, com valor percentual  |
-|  ROI 60 Dias 2019 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2019  |  0 <= x <= 100, com valor percentual |
-|  ROI 60 Dias 2020 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2020  |  0 <= x <= 100, com valor percentual  |
-|  ROI 60 Dias Médio |  Roi médio  |  0 <= x <= 100, com valor percentual  |
 
 
-bitcoin_roi_90_dias_mensal.csv
-
-| Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
-| ------------------- | ------------------- | ----------------- |
-|  Meses |  Meses do Ano  | Mes |
-|  ROI 90 Dias 2014 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2014  |  0 <= x <= 100, com valor percentual |
-|  ROI 90 Dias 2015 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2015  |  0 <= x <= 100, com valor percentual |
-|  ROI 90 Dias 2016 | ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2016  |  0 <= x <= 100, com valor percentual |
-|  ROI 90 Dias 2017 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2017  |  0 <= x <= 100, com valor percentual  |
-|  ROI 90 Dias 2018 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2018  |  0 <= x <= 100, com valor percentual  |
-|  ROI 90 Dias 2019 | ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2019  |  0 <= x <= 100, com valor percentual  |
-|  ROI 90 Dias 2020 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2020  |  0 <= x <= 100, com valor percentual  |
-|  ROI 90 Dias Médio |  Roi médio  |  0 <= x <= 100, com valor percentual  |
-
-
-
-## 💡 Problemas, inconsistências e melhorias 💡 
+## Problemas, inconsistências e melhorias (?)
 
