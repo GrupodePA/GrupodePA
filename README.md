@@ -34,6 +34,7 @@ N_passageiros_transportados_por_empresasferroviárias_anual.csv
 |  Numero Total de Passageiros |  Numero Total de Passageiros em Portugal |  >=0  |
 
 
+N_viagens_de_ turistas_por_sexo_e_meio_de_transporte.csv
 
 
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
