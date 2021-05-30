@@ -1,8 +1,8 @@
 # Nº PASSAGEIROS TRANSPORTADOS POR EMPRESAS FERROVIÁRIAS :steam_locomotive: 
-## Recolha de dados
+## Recolha de dados 📚
 A base de dados utilizada pertence ao Instituto Nacional de Estatística (INE, https://www.ine.pt/xportal/xmain?xpgid=ine_main&xpid=INE), cuja missão é produzir a informação estatística oficial de qualidade, promovendo a coordenação, a análise, a inovação e a divulgação da atividade estatística nacional e europeia, garantindo o armazenamento integrado de dados. O INE segue uma linha com o Código de Conduta, com os seguintes valores: Profissionalismo, ética e respeito pela confidencialidade; Independência técnica, objetividade e imparcialidade; Valorização dos recursos humanos e desenvolvimento de novas competências; Compromisso para com a Qualidade; Criatividade, inovação e melhoria contínua dos processos; Respeito pelos detentores de fontes de dados; Sucesso nas parcerias com entidades externas; Satisfação das necessidades estatísticas diferenciadas.
 
-## Contexto
+## Contexto 📜
 Relativamente aos temas em análise, estes são: número de passageiros transportados pelas empresas exploradoras da ferroviária e número de viagens feitas por turistas com variáveis sexo e meio de transporte.
 O primeiro tema vai de encontro a algo bastante importante e que deveria ter mais audiência, o uso de transportes públicos. Assim, a poluição diminuiria e os gastos nos equipamentos também. Nas grandes cidades existem bastantes transportes publicos, a população usufrui facilmente. Por vezes, é preferível do que andar no transito da estrada. Contrapondo, em aldeias e vilas, este facilitismo e acessibilidade é menor. Existem poucos transportes públicos, sejam autocarros ou comboios, os horários são escassos e muitas das vezes a deslocação é longa. Eticamente, estaríamos a respeitar a natureza e consequentemente a nós próprios.
 Já no que que diz respeito ao segundo tema, pretendemos analisar em que épocas do ano existe um aumento no número de viagens efetuadas por turistas, tendo em conta o número total de viagens e a divisão por sexo, em automóveis terrestres. Isto visto que, em primeiro lugar, é super importante os turistas viagarem no nosso país. Em segundo, é interessante perceber se existem muitas viagens efetuadas em transportes ferrovoários.
@@ -72,5 +72,5 @@ N_viagens_de_ turistas_Mulheres_e_meio_de_transporte.csv
 |  Nº de viagens |  Total de numero de viagens feitas por mulheres num mês  |  >=0  | 
 
 
-## Problemas, inconsistências e melhorias 
+## Problemas, inconsistências e melhorias (?)
 Ao escolhermos os temas para o nosso trabalho, começamos por decidir a fonte por ser fidedigna e não propriamente o tema em si. Assim, ao longo da realização do trabalho deparamo-nos com a dificuldade de encontrar informação sobre os mesmo temas em análise.
