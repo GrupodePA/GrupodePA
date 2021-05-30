@@ -22,9 +22,11 @@ https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_main
 
 https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0000902&contexto=bd&selTab=tab2
 
+N_passageiros_transportados_por_empresasferroviárias_anual.csv
+
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
 | ------------------- | ------------------- | ----------------- |
-|  data |  Data | DD-MM-YYYY h-m-s-ms |
+|  Mês |  Mês | 0 a 12 |
 |   |  Valor da Bitcoin em dólares | >=0 |
 |  ETHUSD |  Valor da Ethereum em dólares | >=0 |
 |  marketcap |  Valor total de mercado de uma moeda | >=0 |
@@ -36,7 +38,6 @@ https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0000
 |  MarketShare | Percentagem de cada moeda no mercado |  >=0  |
 
 
-bitcoin_roi_30_dias_mensal.csv
 
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
 | ------------------- | ------------------- | ----------------- |
