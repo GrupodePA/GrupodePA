@@ -26,7 +26,7 @@ N_passageiros_transportados_por_empresasferroviárias_anual.csv
 
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
 | ------------------- | ------------------- | ----------------- |
-|  Mês |  Mês | 0 a 12 |
+|  Mês |  Mês | Janeiro a Dezembro |
 |  Ano |  Ano | YYYY |
 |  Suburbano |  Quantidade de pessoas que utilizaram este tipo de tráfego | >=0 |
 |  Nacional |  Quantidade de pessoas que utilizaram este tipo de tráfego | >=0 |
