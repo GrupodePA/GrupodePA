@@ -43,8 +43,33 @@ N_viagens_de_ turistas_por_sexo_e_meio_de_transporte.csv
 |  Meses |  Meses do Ano  | Janeiro a Dezembro |
 |  Local de residência | País de origem | Local  |
 |  Sexo | Neste caso é a junção dos dois sexos  |  HM = Homem e Mulher  |
-|  Meio de transporte |    | Terrestre  |
-|  Nº de viagens |    |  >=0  | 
+|  Meio de transporte |  Meio de trasnporte utilizado  | Terrestre  |
+|  Nº de viagens |  Total de numero de viagens feitas por homens e mulheres num mês  |  >=0  | 
+
+N_viagens_de_ turistas_Homems_e_meio_de_transporte.csv
+
+
+| Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
+| ------------------- | ------------------- | ----------------- |
+|  Ano |  Ano  |  YYYY  |
+|  Meses |  Meses do Ano  | Janeiro a Dezembro |
+|  Local de residência | País de origem | Local  |
+|  Sexo | Neste caso é apenas o Homem  |  H = Homem |
+|  Meio de transporte |  Meio de trasnporte utilizado  | Terrestre  |
+|  Nº de viagens |  Total de numero de viagens feitas por homens num mês  |  >=0  | 
+
+
+N_viagens_de_ turistas_Mulheres_e_meio_de_transporte.csv
+
+
+| Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
+| ------------------- | ------------------- | ----------------- |
+|  Ano |  Ano  |  YYYY  |
+|  Meses |  Meses do Ano  | Janeiro a Dezembro |
+|  Local de residência | País de origem | Local  |
+|  Sexo | Neste caso é apenas a Mulher  |  M = Mulher  |
+|  Meio de transporte |  Meio de trasnporte utilizado  | Terrestre  |
+|  Nº de viagens |  Total de numero de viagens feitas por mulheres num mês  |  >=0  | 
 
 
 ## Problemas, inconsistências e melhorias (?)
