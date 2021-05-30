@@ -27,15 +27,12 @@ N_passageiros_transportados_por_empresasferroviárias_anual.csv
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
 | ------------------- | ------------------- | ----------------- |
 |  Mês |  Mês | 0 a 12 |
-|   |  Valor da Bitcoin em dólares | >=0 |
-|  ETHUSD |  Valor da Ethereum em dólares | >=0 |
-|  marketcap |  Valor total de mercado de uma moeda | >=0 |
-|  ROI |  Retorno sobre o investimento |  <0<  |
-|  volume |  Total de moedas trocadas num determinado período de tempo |  >=0  |
-|  preço_inicial |  Preço inicial de uma moeda num determinado momento |  >=0  |
-|  prices |  Preço da moeda |  >=0  |
-|  Percentagem |  Percentagem de determinado valor |  >=0  |
-|  MarketShare | Percentagem de cada moeda no mercado |  >=0  |
+|  Ano |  Ano | YYYY |
+|  Suburbano |  Quantidade de pessoas que utilizaram este tipo de tráfego | >=0 |
+|  Nacional |  Quantidade de pessoas que utilizaram este tipo de tráfego | >=0 |
+|  Internacional |  Quantidade de pessoas que utilizaram este tipo de tráfego | >=0 |
+|  Numero Total de Passageiros |  Numero Total de Passageiros em Portugal |  >=0  |
+
 
 
 
