@@ -1,0 +1,133 @@
+Id, Meses, Local de residência, Sexo, Meio de transporte, Nº de viagens, Ano
+1, Dezembro, Portugal, M, Terrestre, 490 061, 2020
+2, Novembro, Portugal, M, Terrestre, 269 094, 2020
+3, Outubro, Portugal, M, Terrestre, 422 653, 2020
+4, Setembro, Portugal, M, Terrestre, 689 298, 2020 
+5, Agosto, Portugal, M, Terrestre, 1 582 102, 2020
+6, Julho, Portugal, M, Terrestre, 916 348, 2020
+7, Junho, Portugal, M, Terrestre, 573 294, 2020
+8, Maio, Portugal, M, Terrestre, 324 286, 2020
+9, Abril, Portugal, M, Terrestre, 129 235, 2020
+10, Março, Portugal, M, Terrestre, 238 853, 2020
+11, Fevereiro, Portugal, M, Terrestre, 753 848, 2020
+12, Janeiro, Portugal, M, Terrestre, 730 575, 2020
+13, Dezembro, Portugal, M, Terrestre, 1 189 868, 2019
+14, Novembro, Portugal, M, Terrestre, 727 471, 2019
+15, Outubro, Portugal, M, Terrestre, 706 829, 2019
+16, Setembro, Portugal, M, Terrestre, 934 423, 2019
+17, Agosto, Portugal, M, Terrestre, 1 998 405, 2019
+18, Julho, Portugal, M, Terrestre, 1 205 196, 2019
+19, Junho, Portugal, M, Terrestre, 971 624, 2019
+20, Maio, Portugal, M, Terrestre, 720 043, 2019
+21, Abril, Portugal, M, Terrestre, 941 365, 2019
+22, Março, Portugal, M, Terrestre, 781 241, 2019
+23, Fevereiro, Portugal, M, Terrestre, 754 774, 2019
+24, Janeiro, Portugal, M, Terrestre, 727 388, 2019
+25, Dezembro, Portugal, M, Terrestre, 1 153 422, 2018
+26, Novembro, Portugal, M, Terrestre, 567 882, 2018
+27, Outubro, Portugal, M, Terrestre, 633 317, 2018
+28, Setembro, Portugal, M, Terrestre, 843 514, 2018
+29, Agosto, Portugal, M, Terrestre, 1 760 417, 2018
+30, Julho, Portugal, M, Terrestre, 1 144 717, 2018
+31, Junho, Portugal, M, Terrestre, 848 233, 2018
+32, Maio, Portugal, M, Terrestre, 680 323, 2018
+33, Abril, Portugal, M, Terrestre, 622 466, 2018
+34, Março, Portugal, M, Terrestre, 811 929, 2018
+35, Fevereiro, Portugal, M, Terrestre, 670 539, 2018
+36, Janeiro, Portugal, M, Terrestre, 619 938 2018
+37, Dezembro, Portugal, M, Terrestre, 1 127 108, 2017
+38, Novembro, Portugal, M, Terrestre, 499 174, 2017
+39, Outubro, Portugal, M, Terrestre, 564 941, 2017
+40, Setembro, Portugal, M, Terrestre, 839 609, 2017
+41, Agosto, Portugal, M, Terrestre, 1 650 987, 2017
+42, Julho, Portugal, M, Terrestre, 1 184 129, 2017
+43, Junho, Portugal, M, Terrestre, 705 669, 2017
+44, Maio, Portugal, M, Terrestre, 577 051, 2017
+45, Abril, Portugal, M, Terrestre, 855 938, 2017
+46, Março, Portugal, M, Terrestre, 659 483, 2017
+47, Fevereiro, Portugal, M, Terrestre, 641 379, 2017
+48, Janeiro, Portugal, M, Terrestre, 592 453, 2017
+49, Dezembro, Portugal, M, Terrestre, 1 019 541, 2016
+50, Novembro, Portugal, M, Terrestre, 509 902, 2016
+51, Outubro, Portugal, M, Terrestre, 567 810, 2016
+52, Setembro, Portugal, M, Terrestre, 794 494, 2016
+53, Agosto, Portugal, M, Terrestre, 1 715 611, 2016
+54, Julho, Portugal, M, Terrestre, 1 127 739, 2016
+55, Junho, Portugal, M, Terrestre, 754 468, 2016
+56, Maio, Portugal, M, Terrestre, 607 169, 2016
+57, Abril, Portugal, M,Terrestre, 575 662, 2016
+58, Março, Portugal, M, Terrestre, 704 422, 2016
+59, Fevereiro, Portugal, M, Terrestre, 489 999, 2016
+60, Janeiro, Portugal, M, Terrestre, 527 583, 2016
+61, Dezembro, Portugal, M, Terrestre, 959 829, 2015
+62, Novembro, Portugal, M, Terrestre, 440 974, 2015
+63, Outubro, Portugal, M,Terrestre, 537 579, 2015
+64, Setembro, Portugal, M,Terrestre, 716 052, 2015
+65, Agosto, Portugal, M, Terrestre, 1 541 267, 2015
+66, Julho, Portugal, M, Terrestre, 1 034 931, 2015
+67, Junho, Portugal, M, Terrestre, 714 238, 2015
+68, Maio, Portugal, M, Terrestre, 655 173, 2015
+69, Abril, Portugal, M,Terrestre, 665 504, 2015
+70, Março, Portugal, M, Terrestre, 645 706, 2015
+71, Fevereiro, Portugal, M, Terrestre, 577 864, 2015
+72, Janeiro, Portugal, M, Terrestre, 509 118, 2015
+73, Dezembro, Portugal, M, Terrestre, 899 250, 2014
+74, Novembro, Portugal, M, Terrestre, 494 904, 2014
+75, Outubro, Portugal, M, Terrestre, 438 562, 2014
+76, Setembro, Portugal, M, Terrestre, 570 172, 2014
+77, Agosto, Portugal, M, Terrestre, 1 365 893, 2014
+78, Julho, Portugal, M, Terrestre, 936 533, 2014
+79, Junho, Portugal, M, Terrestre, 713 346, 2014
+80, Maio, Portugal, M, Terrestre, 644 097, 2014
+81, Abril, Portugal, M, Terrestre, 751 363, 2014
+82, Março, Portugal, M, Terrestre, 575 702, 2014
+83, Fevereiro, Portugal, M, Terrestre, 553 407, 2014
+84, Janeiro, Portugal, M, Terrestre, 551 576, 2014
+85, Dezembro, Portugal, M, Terrestre, 841 528, 2013
+86, Novembro, Portugal, M, Terrestre, 481 502, 2013
+87, Outubro, Portugal, M, Terrestre,461 349, 2013
+88, Setembro, Portugal, M, Terrestre,664 813, 2013
+89, Agosto, Portugal, M, Terrestre, 1 591 571, 2013
+90, Julho, Portugal, M,Terrestre, 953 971, 2013
+91, Junho, Portugal, M, Terrestre, 740 446, 2013
+92, Maio, Portugal, M, Terrestre, 594 670, 2013
+93, Abril, Portugal, M, Terrestre, 620 151, 2013
+94, Março, Portugal, M,Terrestre, 697 795, 2013
+95, Fevereiro, Portugal, M, Terrestre, 551 195, 2013
+96, Janeiro, Portugal, M,Terrestre, 545 081, 2013
+97, Dezembro, Portugal, M, Terrestre, 948 398, 2012
+98, Novembro, Portugal, M, Terrestre, 476 975, 2012
+99, Outubro, Portugal, M,Terrestre, 503 033, 2012
+100, Setembro, Portugal, M, Terrestre, 583 293, 2012
+101, Agosto, Portugal, M, Terrestre, 1 390 662, 2012
+102, Julho, Portugal, M, Terrestre, 902 049, 2012
+103, Junho, Portugal, M, Terrestre, 642 801, 2012
+104, Maio, Portugal, M, Terrestre, 452 079, 2012
+105, Abril, Portugal, M, Terrestre, 617 538, 2012
+106, Março, Portugal, M, Terrestre, 553 461, 2012
+107, Fevereiro, Portugal, M, Terrestre, 527 344, 2012
+108, Janeiro, Portugal, M, Terrestre, 458 058, 2012
+109, Dezembro, Portugal, M,Terrestre, 894 655, 2011
+110, Novembro, Portugal, M, Terrestre, 415 798, 2011
+111, Outubro, Portugal, M, Terrestre,414 372, 2011
+112, Setembro, Portugal, M, Terrestre,588 644, 2011
+113, Agosto, Portugal, M, Terrestre, 1 172 179, 2011
+114, Julho, Portugal, M,Terrestre, 808 963, 2011
+115, Junho, Portugal, M, Terrestre, 550 404, 2011
+116, Maio, Portugal, M, Terrestre, 439 655, 2011
+117, Abril, Portugal, M,Terrestre, 650 820, 2011
+118, Março, Portugal, M, Terrestre, 479 863, 2011
+119, Fevereiro, Portugal, M, Terrestre, 420 605, 2011
+120, Janeiro, Portugal, M, Terrestre, 442 886, 2011
+121, Dezembro, Portugal, M, Terrestre, 869 284, 2010
+122, Novembro, Portugal, M, Terrestre, 383 354, 2010
+123, Outubro, Portugal, M,Terrestre, 441 609, 2010
+124, Setembro, Portugal, M,Terrestre, 510 468, 2010
+125, Agosto, Portugal, M, Terrestre, 1 267 245, 2010
+126, Julho, Portugal, M, Terrestre, 790 467, 2010
+127, Junho, Portugal, M, Terrestre,599 608 , 2010
+128, Maio, Portugal, M, Terrestre, 400 996, 2010
+129, Abril, Portugal, M, Terrestre,541 771, 2010
+130, Março, Portugal, M, Terrestre, 402 292, 2010
+131, Fevereiro, Portugal, M, Terrestre, 474 977, 2010
+132, Janeiro, Portugal, M, Terrestre, 434 454, 2010
