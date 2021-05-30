@@ -7,7 +7,7 @@ Relativamente aos temas em análise, estes são: número de passageiros transpor
 O primeiro tema vai de encontro a algo bastante importante e que deveria ter mais audiência, o uso de transportes públicos. Assim, a poluição diminuiria e os gastos nos equipamentos também. Nas grandes cidades existem bastantes transportes publicos, a população usufrui facilmente. Por vezes, é preferível do que andar no transito da estrada. Contrapondo, em aldeias e vilas, este facilitismo e acessibilidade é menor. Existem poucos transportes públicos, sejam autocarros ou comboios, os horários são escassos e muitas das vezes a deslocação é longa. Eticamente, estaríamos a respeitar a natureza e consequentemente a nós próprios.
 Já no que que diz respeito ao segundo tema, pretendemos analisar em que épocas do ano existe um aumento no número de viagens efetuadas por turistas, tendo em conta o número total de viagens e a divisão por sexo, em automóveis terrestres. Isto visto que, em primeiro lugar, é super importante os turistas viagarem no nosso país. Em segundo, é interessante perceber se existem muitas viagens efetuadas em transportes ferrovoários.
 
-## Estrutura
+## Estrutura 🔨
 Passageiros-quilómetro transportados (N.º) pelas empresas exploradoras de sistema ferroviário pesado por Tipo de tráfego ; Mensal
 (https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_indicadores&indOcorrCod=0000902&contexto=bd&selTab=tab2) - ao abrir o link é necessário selecionar o periodo de análise (decidimos analisar os ultimos dez anos disponiveis), a localização geográficas (Portugal) e o tipo de tráfego (total, suburbano nacional e internacional).
 
