@@ -26,7 +26,7 @@ N_passageiros_transportados_por_empresasferroviárias_anual.csv
 
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
 | ------------------- | ------------------- | ----------------- |
-|  Mês |  Mês | Janeiro a Dezembro |
+|  Mês |  Meses do Ano  | Janeiro a Dezembro |
 |  Ano |  Ano | YYYY |
 |  Suburbano |  Quantidade de pessoas que utilizaram este tipo de tráfego | >=0 |
 |  Nacional |  Quantidade de pessoas que utilizaram este tipo de tráfego | >=0 |
@@ -40,16 +40,11 @@ N_viagens_de_ turistas_por_sexo_e_meio_de_transporte.csv
 | Nome do ficheiro  |  Função e contéudo  |  Possiveis Valores  |
 | ------------------- | ------------------- | ----------------- |
 |  Ano |  Ano  |  YYYY  |
-|  Meses |  Meses do Ano  | Mes |
-|  ROI 30 Dias 2014 | ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2014  |0 <= x <= 100, com valor percentual   |
-|  ROI 30 Dias 2015 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2015  |  0 <= x <= 100, com valor percentual  |
-|  ROI 30 Dias 2016 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2016  | 0 <= x <= 100, com valor percentual  |
-|  ROI 30 Dias 2017 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2017  |  0 <= x <= 100, com valor percentual  |
-|  ROI 30 Dias 2018 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2018  |  0 <= x <= 100, com valor percentual  |
-|  ROI 30 Dias 2019 |  ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2019  |  0 <= x <= 100, com valor percentual  |
-|  ROI 30 Dias 2020 | ROI tendo em conta a data de investimento inicial o dia 1 de cada mês e a venda do mesmo 30 dias depois no ano 2020  |  0 <= x <= 100, com valor percentual  |
-|  ROI 30 Dias Médio |  Roi médio  |  0 <= x <= 100, com valor percentual  |
-
+|  Meses |  Meses do Ano  | Janeiro a Dezembro |
+|  Local de residência | País de origem | Local  |
+|  Sexo | Neste caso é a junção dos dois sexos  |  HM = Homem e Mulher  |
+|  Meio de transporte |    | Terrestre  |
+|  Nº de viagens |    |  >=0  | 
 
 
 ## Problemas, inconsistências e melhorias (?)
