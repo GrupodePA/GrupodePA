@@ -74,3 +74,4 @@ N_viagens_de_ turistas_Mulheres_e_meio_de_transporte.csv
 
 ## Problemas, inconsistências e melhorias 💡
 Ao escolhermos os temas para o nosso trabalho, começamos por decidir a fonte por ser fidedigna e não propriamente o tema em si. Assim, ao longo da realização do trabalho deparamo-nos com a dificuldade de encontrar informação sobre os mesmo temas em análise.
+Ao exportarmos os dados do INE, obtivemos bastantes dificuldades visto que os dados não vinham organizados devidamente, ou seja, tivemos que perder bastante tempo a preparar-los para conseguirmos, de facto, analisá-los relativamente ao nosso estudo.
