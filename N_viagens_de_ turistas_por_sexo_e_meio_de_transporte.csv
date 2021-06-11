@@ -1,0 +1,133 @@
+Id, Meses, Local_de_residencia, Sexo, Meio_de_transporte, N_de_viagens, Ano
+1, Dezembro, Portugal, HM, Terrestre, 979908, 2020
+2, Novembro, Portugal, HM, Terrestre, 541469, 2020
+3, Outubro, Portugal, HM, Terrestre, 828561, 2020
+4, Setembro, Portugal, HM, Terrestre, 1398486, 2020 
+5, Agosto, Portugal, HM, Terrestre, 3154781, 2020
+6, Julho, Portugal, HM, Terrestre, 1803136, 2020
+7, Junho, Portugal, HM, Terrestre, 1136653, 2020
+8, Maio, Portugal, HM, Terrestre, 607691, 2020
+9, Abril, Portugal, HM, Terrestre, 222200, 2020
+10, Marco, Portugal, HM, Terrestre, 489913, 2020
+11, Fevereiro, Portugal, HM, Terrestre, 1619564, 2020
+12, Janeiro, Portugal, HM, Terrestre, 1627487, 2020
+13, Dezembro, Portugal, HM, Terrestre, 2523963, 2019
+14, Novembro, Portugal, HM, Terrestre, 1555043, 2019
+15, Outubro, Portugal, HM, Terrestre, 1443060, 2019
+16, Setembro, Portugal, HM, Terrestre, 1938526, 2019
+17, Agosto, Portugal, HM, Terrestre, 4121550, 2019
+18, Julho, Portugal, HM, Terrestre, 2607155, 2019
+19, Junho, Portugal, HM, Terrestre, 2000687, 2019
+20, Maio, Portugal, HM, Terrestre, 1539492, 2019
+21, Abril, Portugal, HM, Terrestre, 2060163, 2019
+22, Marco, Portugal, HM, Terrestre, 1633640, 2019
+23, Fevereiro, Portugal, HM, Terrestre, 1538796, 2019
+24, Janeiro, Portugal, HM, Terrestre, 1500729, 2019
+25, Dezembro, Portugal, HM, Terrestre, 2359291, 2018
+26, Novembro, Portugal, HM, Terrestre, 1308960, 2018
+27, Outubro, Portugal, HM, Terrestre, 1382211, 2018
+28, Setembro, Portugal, HM, Terrestre, 1753922, 2018
+29, Agosto, Portugal, HM, Terrestre, 3618532, 2018
+30, Julho, Portugal, HM, Terrestre, 2433228, 2018
+31, Junho, Portugal, HM, Terrestre, 1906754, 2018
+32, Maio, Portugal, HM, Terrestre, 1434343, 2018
+33, Abril, Portugal, HM, Terrestre, 1406850, 2018
+34, Marco, Portugal, HM, Terrestre, 1733489, 2018
+35, Fevereiro, Portugal, HM, Terrestre, 1436150, 2018
+36, Janeiro, Portugal, HM, Terrestre, 1305317, 2018
+37, Dezembro, Portugal, HM, Terrestre, 2373043, 2017
+38, Novembro, Portugal, HM, Terrestre, 1115282, 2017
+39, Outubro, Portugal, HM, Terrestre, 1262426, 2017
+40, Setembro, Portugal, HM, Terrestre, 1866331, 2017
+41, Agosto, Portugal, HM, Terrestre, 3430741, 2017
+42, Julho, Portugal, HM, Terrestre, 2497774, 2017
+43, Junho, Portugal, HM, Terrestre, 1557854, 2017
+44, Maio, Portugal, HM, Terrestre, 1264908, 2017
+45, Abril, Portugal, HM, Terrestre, 1827326, 2017
+46, Marco, Portugal, HM, Terrestre, 1378858, 2017
+47, Fevereiro, Portugal, HM, Terrestre, 1347716, 2017
+48, Janeiro, Portugal, HM, Terrestre, 1256668, 2017
+49, Dezembro, Portugal, HM, Terrestre, 2082001, 2016
+50, Novembro, Portugal, HM, Terrestre, 1094864, 2016
+51, Outubro, Portugal, HM, Terrestre, 1244723, 2016
+52, Setembro, Portugal, HM, Terrestre, 1792271, 2016
+53, Agosto, Portugal, HM, Terrestre, 3541478, 2016
+54, Julho, Portugal, HM, Terrestre, 2373142, 2016
+55, Junho, Portugal, HM, Terrestre, 1656302, 2016
+56, Maio, Portugal, HM, Terrestre, 1329985, 2016
+57, Abril, Portugal, HM,Terrestre, 1305727, 2016
+58, Marco, Portugal, HM, Terrestre, 1506951, 2016
+59, Fevereiro, Portugal, HM, Terrestre, 1099002, 2016
+60, Janeiro, Portugal, HM, Terrestre, 1155470, 2016
+61, Dezembro, Portugal, HM, Terrestre, 2047477, 2015
+62, Novembro, Portugal, HM, Terrestre, 952035, 2015
+63, Outubro, Portugal, HM,Terrestre, 1164539, 2015
+64, Setembro, Portugal, HM,Terrestre, 1623481, 2015
+65, Agosto, Portugal, HM, Terrestre, 3218385, 2015
+66, Julho, Portugal, HM, Terrestre, 2219026, 2015
+67, Junho, Portugal, HM, Terrestre, 1541900, 2015
+68, Maio, Portugal, HM, Terrestre, 1373706, 2015
+69, Abril, Portugal, HM,Terrestre, 1403866, 2015
+70, Marco, Portugal, HM, Terrestre, 1387704, 2015
+71, Fevereiro, Portugal, HM, Terrestre, 1229396, 2015
+72, Janeiro, Portugal, HM, Terrestre, 1085370, 2015
+73, Dezembro, Portugal, HM, Terrestre, 1894561, 2014
+74, Novembro, Portugal, HM, Terrestre, 1106510, 2014
+75, Outubro, Portugal, HM, Terrestre, 953577, 2014
+76, Setembro, Portugal, HM, Terrestre, 1235585, 2014
+77, Agosto, Portugal, HM, Terrestre, 2811087, 2014
+78, Julho, Portugal, HM, Terrestre, 1943646, 2014
+79, Junho, Portugal, HM, Terrestre, 14034976, 2014
+80, Maio, Portugal, HM, Terrestre, 1360330, 2014
+81, Abril, Portugal, HM, Terrestre, 1594845, 2014
+82, Marco, Portugal, HM, Terrestre, 1219823, 2014
+83, Fevereiro, Portugal, HM, Terrestre, 1175401, 2014
+84, Janeiro, Portugal, HM, Terrestre, 1160935, 2014
+85, Dezembro, Portugal, HM, Terrestre, 1828942, 2013
+86, Novembro, Portugal, HM, Terrestre, 1070955, 2013
+87, Outubro, Portugal, HM, Terrestre, 986835, 2013
+88, Setembro, Portugal, HM, Terrestre, 1357332, 2013
+89, Agosto, Portugal, HM, Terrestre, 3075634, 2013
+90, Julho, Portugal, HM,Terrestre, 1919081, 2013
+91, Junho, Portugal, HM, Terrestre, 1503823, 2013
+92, Maio, Portugal, HM, Terrestre, 1208204, 2013
+93, Abril, Portugal, HM, Terrestre, 1224588, 2013
+94, Marco, Portugal, HM,Terrestre, 1410819, 2013
+95, Fevereiro, Portugal, HM, Terrestre, 1132055, 2013
+96, Janeiro, Portugal, HM,Terrestre, 1143196, 2013
+97, Dezembro, Portugal, HM, Terrestre, 1968400, 2012
+98, Novembro, Portugal, HM, Terrestre, 1032038, 2012
+99, Outubro, Portugal, HM,Terrestre, 1032998, 2012
+100, Setembro, Portugal, HM, Terrestre, 1245860, 2012
+101, Agosto, Portugal, HM, Terrestre, 2862718, 2012
+102, Julho, Portugal, HM, Terrestre, 1805593, 2012
+103, Junho, Portugal, HM, Terrestre, 1358885, 2012
+104, Maio, Portugal, HM, Terrestre, 1018474, 2012
+105, Abril, Portugal, HM, Terrestre, 1303138, 2012
+106, Marco, Portugal, HM, Terrestre, 1214611, 2012
+107, Fevereiro, Portugal, HM, Terrestre, 1148115, 2012
+108, Janeiro, Portugal, HM, Terrestre, 1035220, 2012
+109, Dezembro, Portugal, HM,Terrestre, 1850828, 2011
+110, Novembro, Portugal, HM, Terrestre, 858763, 2011
+111, Outubro, Portugal, HM, Terrestre, 879459, 2011
+112, Setembro, Portugal, HM, Terrestre, 1154283, 2011
+113, Agosto, Portugal, HM, Terrestre, 2532045, 2011
+114, Julho, Portugal, HM,Terrestre, 1673151, 2011
+115, Junho, Portugal, HM, Terrestre, 1142657, 2011
+116, Maio, Portugal, HM, Terrestre, 939335, 2011
+117, Abril, Portugal, HM,Terrestre, 1368188, 2011
+118, Marco, Portugal, HM, Terrestre, 1021116, 2011
+119, Fevereiro, Portugal, HM, Terrestre, 881888, 2011
+120, Janeiro, Portugal, HM, Terrestre, 889025, 2011
+121, Dezembro, Portugal, HM, Terrestre, 183057, 2010
+122, Novembro, Portugal, HM, Terrestre, 881763, 2010
+123, Outubro, Portugal, HM,Terrestre, 994254, 2010
+124, Setembro, Portugal, HM,Terrestre, 1145039, 2010
+125, Agosto, Portugal, HM, Terrestre, 2707859, 2010
+126, Julho, Portugal, HM, Terrestre, 1732924, 2010
+127, Junho, Portugal, HM, Terrestre,1259125 , 2010
+128, Maio, Portugal, HM, Terrestre, 868843, 2010
+129, Abril, Portugal, HM, Terrestre, 1130322, 2010
+130, Marco, Portugal, HM, Terrestre, 877641, 2010
+131, Fevereiro, Portugal, HM, Terrestre, 1036056, 2010
+132, Janeiro, Portugal, HM, Terrestre, 908819, 2010
